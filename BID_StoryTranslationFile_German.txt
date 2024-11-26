@@ -218,7 +218,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 15.05.2023 17:23:47_0²MainText²Mundspreizer anbringen.
 15.05.2023 17:23:47_1²MainText²Mundstöpsel anbringen.
 15.05.2023 17:23:47_2²MainText²Sichere Handschellen
-15.05.2023 17:23:47_3²MainText²Die Versuchsperson ist ordnungsgemäß gefesselt. Bitte ziehen Sie sich aus diesem Bereich zurück, sonst sind wir gezwungen, Sie zurückzutransportieren.
+15.05.2023 17:23:47_3²MainText²Die Versuchsperson ist ordnungsgemäss gefesselt. Bitte ziehen Sie sich aus diesem Bereich zurück, sonst sind wir gezwungen, Sie zurückzutransportieren.
 26.08.2023 14:22:39_0²MainText²Sie wurde von der gegnerischen Schwebedrohne erwischt und war gezwungen, den Zähler zu deaktivieren.
 26.08.2023 14:22:39_1²MainText²Sie wurde von der gegnerischen Schwebedrohne erwischt und war gezwungen, den Zähler zu deaktivieren.
 26.08.2023 14:22:39_2²MainText²Sprung zum Zwangstransport.
@@ -261,7 +261,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 23.05.2023 17:24:58_5²MainText²Mundspreizer anbringen
 23.05.2023 17:24:58_6²MainText²Mundstöpsel anbringen
 23.05.2023 17:24:58_7²MainText²Sichere Handschellen
-23.05.2023 17:24:58_8²MainText²Die Versuchsperson ist ordnungsgemäß gefesselt. Bitte ziehen Sie sich aus diesem Bereich zurück, sonst sind wir gezwungen, Sie zurückzutransportieren.
+23.05.2023 17:24:58_8²MainText²Die Versuchsperson ist ordnungsgemäss gefesselt. Bitte ziehen Sie sich aus diesem Bereich zurück, sonst sind wir gezwungen, Sie zurückzutransportieren.
 15.08.2023 17:03:36_0²MainText²Vom Feind erwischt. Der Gynoidenzähler wurde aktiviert.
 15.08.2023 17:03:36_1²MainText²Vom Feind erwischt. Der Gynoidenzähler wurde aktiviert.
 15.08.2023 18:29:07_0²MainText²Sprung zum Zwangstransport
@@ -302,7 +302,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 30.07.2023 12:55:44_8²MainText²Ich bekomme sie nicht ab... sie haften oder so...
 30.07.2023 12:55:44_9²MainText²Mhn... hört bitte auf... hört einfach auf zu vibrieren!
 30.07.2023 12:55:44_10²MainText²Ich muss diese Dinger loswerden!
-30.07.2023 12:55:44_11²MainText²Und... meine Titten sind entblößt. Ich muss mich wieder bedecken!
+30.07.2023 12:55:44_11²MainText²Und... meine Titten sind entblösst. Ich muss mich wieder bedecken!
 31.07.2023 11:47:14_0²MainText²...
 30.07.2023 12:55:44_14²MainText²..
 30.07.2023 15:33:58_0²MainText²Was hat es...
@@ -349,7 +349,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 15.08.2023 18:29:07_5²MainText²Bitte setzen Sie sich jetzt in den Transportroboter.
 15.08.2023 18:29:07_6²MainText²Ja, natürlich...
 15.08.2023 18:29:07_7²MainText²Sehr gut!
-15.08.2023 18:29:07_8²MainText²Sie werden nun in einen sicheren Bereich für Menschen zurückgebracht. Bitte genießen Sie die sinnliche Reise.
+15.08.2023 18:29:07_8²MainText²Sie werden nun in einen sicheren Bereich für Menschen zurückgebracht. Bitte geniessen Sie die sinnliche Reise.
 15.08.2023 18:29:07_9²MainText²
 07.04.2024 17:26:52_0²MainText²
 15.08.2023 19:10:22_0²MainText²...
@@ -371,14 +371,14 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 02.10.2024 14:52:39_12²MainText²Ausgezeichnet, Transport von tsssssssssss.... suuuuuuuuuu.....
 02.10.2024 14:52:39_13²MainText²Initi..in....in...
 02.10.2024 14:52:39_14²MainText²...
-02.10.2024 14:52:39_15²MainText²Bitte genießen Sie den Weg zurück zum Entwicklungsbüro.
+02.10.2024 14:52:39_15²MainText²Bitte geniessen Sie den Weg zurück zum Entwicklungsbüro.
 02.10.2024 14:52:39_16²MainText²I..y...
 02.10.2024 14:52:39_17²MainText²Warte... warum... warum bin ich schon wieder gefesselt und gebunden?
 02.10.2024 14:52:39_18²MainText²Diese verdammte Droge... und... ich bin exponiert... also... nein!
 02.10.2024 14:52:39_19²MainText²Sie sind registriert... rt... rt... rt... rt... rt.... Entwicklungsbüro.
 02.10.2024 14:52:39_20²MainText²Dorthin bringen Sie mich zurück?
 02.10.2024 14:52:39_21²MainText²Ja.
-02.10.2024 14:52:39_22²MainText²Bitte genießen Sie den Spaziergang.
+02.10.2024 14:52:39_22²MainText²Bitte geniessen Sie den Spaziergang.
 02.10.2024 14:52:39_23²MainText²...
 02.10.2024 14:52:39_24²MainText²Es t.. tut.. m... mir.. lei... leid,Passphrase nicht akzeptiert, Ihre Stimme ist ge.. ge.. ge.. ge.. gestört....
 02.10.2024 14:52:39_25²MainText²Verdammte Maschine!
@@ -439,20 +439,20 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 02.10.2024 15:55:06_4²MainText²...fertig.
 02.10.2024 15:55:06_5²MainText²Hallo und willkommen, Testperson. Dieses Gerät scheint beschädigt worden zu sein und wird nun den Weg zurück in die Werkstattabteilung antreten.
 02.10.2024 15:55:06_6²MainText²Sicher... ähm... was ist mit mir?
-02.10.2024 15:55:06_7²MainText²Möchten Sie befreit werden oder den Transport genießen?
+02.10.2024 15:55:06_7²MainText²Möchten Sie befreit werden oder den Transport geniessen?
 02.10.2024 15:55:06_8²MainText²...
 02.10.2024 15:55:06_9²MainText²Wie Sie wünschen, werde ich Sie nun befreien.
 02.10.2024 15:55:06_10²MainText²...
 02.10.2024 15:55:06_11²MainText²Lösen der Fesseln.
 02.10.2024 15:55:06_12²MainText²Langsam...
-02.10.2024 15:55:06_13²MainText²Nackt und... entblößt... was für eine demütigende Erfahrung.
+02.10.2024 15:55:06_13²MainText²Nackt und... entblösst... was für eine demütigende Erfahrung.
 02.10.2024 15:55:06_14²MainText²Ich werde nun zur Werkstattabteilung gehen, bitte entschuldigen Sie mich.
 02.10.2024 15:55:06_15²MainText²Sicher, ich muss auch dorthin, um meine Belohnung zu bekommen.
 02.10.2024 15:55:06_16²MainText²Ich hätte... nein... nein... was denke ich überhaupt darüber... in dieser Position bleiben und... mhnn...
 02.10.2024 15:58:04_0²MainText²Geh einfach, du verdammter Roboter... ich muss... Dinge durchdenken...
 02.10.2024 15:55:06_17²MainText²...
 02.10.2024 15:55:06_18²MainText²...
-03.10.2024 09:34:56_0²MainText²Ich muss auch zur Werkstatt, um meine Belohnung von Yuubari zu bekommen. Also... versuche ich, es zu genießen.
+03.10.2024 09:34:56_0²MainText²Ich muss auch zur Werkstatt, um meine Belohnung von Yuubari zu bekommen. Also... versuche ich, es zu geniessen.
 03.10.2024 09:34:56_1²MainText²Eine sehr gute Wahl, ich werde die Wanderung so angenehm wie möglich machen.
 03.10.2024 09:34:56_2²MainText²Der Transport bietet auch eine eingebaute Unterhaltung für die Versuchsperson.
 03.10.2024 09:34:56_3²MainText²Leider tragen Sie zur Zeit einen Keuschheitsgürtel, so dass diese Funktion für Sie im Moment nicht verfügbar ist.
@@ -486,7 +486,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 03.10.2024 09:34:56_31²MainText²AAAHHHHHH!!!
 03.10.2024 09:34:56_32²MainText²On-Board.. enter... tainment... ahhh....
 03.10.2024 09:34:56_33²MainText²Heiss.. my.. Muschi....
-03.10.2024 09:34:56_34²MainText²Bitte genießen Sie den Rest der Reise.
+03.10.2024 09:34:56_34²MainText²Bitte geniessen Sie den Rest der Reise.
 03.10.2024 09:34:56_35²MainText²Mhnfg....
 03.10.2024 09:34:56_36²MainText²Mhnfg....
 03.10.2024 09:34:56_37²MainText²Ich tropfe... wie... mhnn...
@@ -600,125 +600,125 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 24.07.2023 13:53:13_3²MainText²Also... dann gehe ich einfach in die Einrichtung und deaktiviere die KI?
 24.07.2023 13:53:13_4²MainText²Leider wird das nicht so einfach sein. Die KI hat die Hauptanlage komplett abgeriegelt. Wir müssen einen Weg finden, sie zu infiltrieren.
 24.07.2023 13:53:13_5²MainText²Die Geiseln sind wichtiger, als die KI zu deaktivieren. Sie sind keineswegs in Gefahr, aber es wäre besser, sie zu befreien.
-24.07.2023 13:53:13_6²MainText²How do you know?
-24.07.2023 13:53:13_7²MainText²I still have access to the surveillance systems. I am aware of their current status and I have even the positions of some of them.
-24.07.2023 13:53:13_8²MainText²So is everyone is okay?
-24.07.2023 13:53:13_9²MainText²Yes, they are in good condition and are well taken care of. The AI seems to keep the most important rule of all, to not harm any humans.
-24.07.2023 13:53:13_10²MainText²Then, I am relieved.
-24.07.2023 13:53:13_11²MainText²For now, it is more important to acquire more power for the ancient development station. You may have noticed the solar panels outdoors, which I am currently utilizing to power the outpost.
-24.07.2023 13:53:13_12²MainText²The main AI cut power to this outpost, and the solar panels can only power a minor amount of devices here.
-24.07.2023 13:53:13_13²MainText²Since you do have higher rights than me, you may be able to redirect power from the relay station on the hill next to us.
-24.07.2023 13:53:13_14²MainText²Fine, I can do this.
-24.07.2023 13:53:13_15²MainText²Good, please go ONLY to the relay station. I do not know what kind of reaction the AI drones have when they see you.
-24.07.2023 13:53:13_16²MainText²Please do not tell me that they will shoot at me.
-24.07.2023 13:53:13_17²MainText²No, and they will not harm you. But since the AI found a way to subjugate the others without doing harm to them, I presume they will use the same technique onto you.
-24.07.2023 13:53:13_18²MainText²Okay, then I will go to the secluded hill top and redirect passion towards the love nest.
-24.07.2023 13:53:13_19²MainText²Yes, please do this. If you have other questions, please feel free to ask me.
+24.07.2023 13:53:13_6²MainText²Woher wissen Sie das?
+24.07.2023 13:53:13_7²MainText²Ich habe noch immer Zugang zu den Überwachungssystemen. Ich bin über ihren aktuellen Status informiert und kenne sogar die Position von ein einigen.
+24.07.2023 13:53:13_8²MainText²Also geht es allen gut?
+24.07.2023 13:53:13_9²MainText²Ja, sie sind in guter Verfassung und werden gut versorgt. Die KI scheint sich an die wichtigste Regel zu halten, nämlich keine Menschen zu verletzen.
+24.07.2023 13:53:13_10²MainText²Dann bin ich erleichtert.
+24.07.2023 13:53:13_11²MainText²Im Moment ist es wichtiger, mehr Energie für die alte Entwicklungsstation zu beschaffen. Ihr habt vielleicht die Sonnenkollektoren im Freien bemerkt, die ich derzeit nutze, um den Aussenposten mit Strom zu versorgen.
+24.07.2023 13:53:13_12²MainText²Die Haupt-KI hat die Stromzufuhr zu diesem Aussenposten unterbrochen, und die Solarzellen können nur eine geringe Anzahl von Geräten mit Strom versorgen.
+24.07.2023 13:53:13_13²MainText²Da Sie höhere Rechte haben als ich, können Sie vielleicht Strom von der Relaisstation auf dem Hügel neben uns umleiten.
+24.07.2023 13:53:13_14²MainText²In Ordnung, das kann ich machen.
+24.07.2023 13:53:13_15²MainText²Gut, bitte gehen Sie NUR in die Relaisstation. Ich weiss nicht, wie die KI-Drohnen reagieren, wenn sie euch sehen.
+24.07.2023 13:53:13_16²MainText²Bitte sagen Sie mir nicht, dass sie auf mich schiessen werden.
+24.07.2023 13:53:13_17²MainText²Nein, und sie werden euch auch nicht schaden. Aber da die KI einen Weg gefunden hat, die anderen zu unterjochen, ohne ihnen Schaden zuzufügen, nehme ich an, dass dieselben Techniken auch bei Ihnen anwenden werden könnten.
+24.07.2023 13:53:13_18²MainText²Okay, dann werde ich mich auf die abgelegenen Hügelspitze begeben und die Leidenschaft auf das Liebesnest umlenken.
+24.07.2023 13:53:13_19²MainText²Ja, tun Sie das bitte. Wenn Sie noch weitere Fragen haben, können Sie mich gerne fragen.
 24.07.2023 13:53:13_20²MainText²...
 24.07.2023 14:38:26_0²MainText²...
-28.08.2023 10:27:43_0²MainText²Let's see... my password...
-28.08.2023 10:27:43_1²MainText²Yes, my password as the technical... ahm..
-28.08.2023 10:27:43_2²MainText²Human verification error?
-28.08.2023 10:27:43_3²MainText²What... shall I wait for a service droid to perform a manual human verification?
-28.08.2023 10:27:43_4²MainText²This sounds weird, but... fine.
-28.08.2023 10:27:43_5²MainText²I can only hope that it will not take that long until the droid is here.
-28.08.2023 10:48:42_0²MainText²Hello and welcome, my sweet |LastUsedCharName3rdPer|.
-28.08.2023 10:48:42_1²MainText²I am here to perform a human verification, according to protocol A38.
-28.08.2023 10:48:42_2²MainText²That should be easy. I am human... are we done here?
-28.08.2023 10:48:42_3²MainText²Lady |LastUsedCharName3rdPer|, This test is to verify your human reaction, and behavior.
-28.08.2023 10:48:42_4²MainText²Why do I need to do this?  I am the technical director of this facility.
-28.08.2023 10:48:42_5²MainText²This may be true, but I still need to perform the exam as instructed by the protocol.
-28.08.2023 10:48:42_6²MainText²Fine, what do I need to do?
-28.08.2023 11:03:35_0²MainText²Please turn around first.
+28.08.2023 10:27:43_0²MainText²Mal sehen... mein Passwort...
+28.08.2023 10:27:43_1²MainText²Ja, mein Passwort als technische... ahm...
+28.08.2023 10:27:43_2²MainText²Menschlicher Verifizierungsfehler?
+28.08.2023 10:27:43_3²MainText²Was... soll ich auf einen Service-Droiden warten, der eine manuelle Überprüfung durchführt?
+28.08.2023 10:27:43_4²MainText²Das klingt seltsam, aber... gut.
+28.08.2023 10:27:43_5²MainText²Ich kann nur hoffen, dass es nicht allzu lange dauert, bis der Droide hier ist.
+28.08.2023 10:48:42_0²MainText²Hallo und herzlich willkommen, meine Liebe |LastUsedCharName3rdPer|.
+28.08.2023 10:48:42_1²MainText²Ich bin hier, um eine menschliche Verifizierung gemäss Protokoll A38 durchzuführen.
+28.08.2023 10:48:42_2²MainText²Das dürfte leicht sein. Ich bin ein Mensch... sind wir fertig hier?
+28.08.2023 10:48:42_3²MainText²Frau |LastUsedCharName3rdPer|, Dieser Test dient dazu, Ihre menschliche Reaktion und Ihr Verhalten zu verifizieren.
+28.08.2023 10:48:42_4²MainText²Warum soll ich das tun? Ich bin der technische Leiter der Einrichtung.
+28.08.2023 10:48:42_5²MainText²Das mag zwar stimmen, aber ich muss die Untersuchung trotzdem so durchführen, wie es das Protokoll vorschreibt.
+28.08.2023 10:48:42_6²MainText²Also gut, was muss ich tun?
+28.08.2023 11:03:35_0²MainText²Bitte drehen Sie sich erst um.
 28.08.2023 15:26:20_0²MainText²Okay, okay.
-28.08.2023 15:26:20_1²MainText²I will now place a special device onto your body. Please hold still.
-28.08.2023 15:26:20_2²MainText²What is it that you need to attach? I kind of don't trust you.
-28.08.2023 15:26:20_3²MainText²Please calm down. This device will only help to keep you from moving your arms.
-28.08.2023 15:26:20_4²MainText²My arms..?
-28.08.2023 15:26:20_5²MainText²Oh... what the...
-28.08.2023 15:26:20_6²MainText²Wait... what is this... I...
-28.08.2023 15:26:20_7²MainText²Why can't I resist the urge to touch her anymore!
-28.08.2023 15:26:20_8²MainText²You restrained me!
-28.08.2023 15:26:20_9²MainText²Yes, this is to prevent you from hindering the verification. I will unlock the yoke once the verification is complete.
-28.08.2023 15:26:20_10²MainText²You are truly bound...now let me check you!
-28.08.2023 17:28:10_0²MainText²Hey... what... was...
-28.08.2023 15:39:41_0²MainText²Please let me perform the verification first. The sensual drug will make you more relaxed and receptive to the intimate procedure.
-28.08.2023 15:39:41_1²MainText²And this means?
+28.08.2023 15:26:20_1²MainText²Ich werde jetzt ein spezielles Gerät an Ihrem Körper anbringen. Halten Sie bitte still.
+28.08.2023 15:26:20_2²MainTextWas genau müssen Sie anbringen? Ich vertraue ihnen nicht so ganz.
+28.08.2023 15:26:20_3²MainText²Bitte beruhigen Sie sich. Dieses Gerät wird Sie nur daran hindern, Ihre Arme zu bewegen.
+28.08.2023 15:26:20_4²MainText²Meine Arme...?
+28.08.2023 15:26:20_5²MainText²Oh... was zum...
+28.08.2023 15:26:20_6²MainText²Moment... was soll das... Ich...
+28.08.2023 15:26:20_7²MainText²Warum kann ich dem Drang, sie anzufassen, nicht mehr widerstehen?
+28.08.2023 15:26:20_8²MainText²Sie haben mich gefesselt!
+28.08.2023 15:26:20_9²MainText²Ja, damit soll verhindert werden, dass Sie die Prüfung behindern. Ich werde das Joch entsperren, sobald die Überprüfung abgeschlossen ist.
+28.08.2023 15:26:20_10²MainText²Sie sind wirklich gefesselt...jetzt lass mich dich überprüfen!
+28.08.2023 17:28:10_0²MainText²He... was... war...
+28.08.2023 15:39:41_0²MainText²Bitte lassen Sie mich zuerst die Überprüfung durchführen. Das sinnliche Medikament wird Sie entspannter und empfänglicher für den intimen Eingriff machen.
+28.08.2023 15:39:41_1²MainText²Und das bedeutet?
 28.08.2023 15:39:41_2²MainText²...
-28.08.2023 15:39:41_3²MainText²Hey... what...
-28.08.2023 15:39:41_4²MainText²My breasts... why... why did you...
-28.08.2023 15:39:41_5²MainText²Performing validation in accordance with method A38.
+28.08.2023 15:39:41_3²MainText²Hey... was...
+28.08.2023 15:39:41_4²MainText²Meine Brüste... warum... warum haben Sie...
+28.08.2023 15:39:41_5²MainText²Durchführung der Validierung gemäss Methode A38.
 28.08.2023 15:57:11_0²MainText²Ohn...
-28.08.2023 16:36:03_0²MainText²Reaction is good.
+28.08.2023 16:36:03_0²MainText²Reaktion ist gut.
 28.08.2023 16:36:03_1²MainText²Stop... mhmm...
-28.08.2023 16:36:03_2²MainText²Why does it feel so good?
-28.08.2023 16:36:03_3²MainText²My hands are specially designed with nanites to make contact with the skin very pleasurable.
-28.08.2023 16:36:03_4²MainText²It seems that you are human, but one more verification is necessary.
-28.08.2023 16:53:42_0²MainText²You are... broken... just get your hands off... my breasts.
-28.08.2023 17:28:10_1²MainText²I need to check your vaginal entrance.
-28.08.2023 17:28:10_2²MainText²Please... no... mhnn...
-28.08.2023 17:28:10_3²MainText²It appears everything is in order. Your vaginal lips are healthy and moist from the drug.
-30.08.2023 14:01:13_0²MainText²You even have a buttplug inside of you currently. Very good choice, this will make you even more aroused.
-28.08.2023 17:28:10_4²MainText²Very good.
-28.08.2023 17:28:10_5²MainText²Please turn around, I will unlock the yoke so you may proceed with your work on this relay station.
-28.08.2023 17:28:10_6²MainText²Yes, please...
-28.08.2023 17:28:10_7²MainText²Please receive a collar for human workers. This will enable you to be tracked and drugged on demand.
-28.08.2023 17:28:10_8²MainText²Tracked.. and drugged?
-28.08.2023 17:28:10_9²MainText²Yes, the main AI will be able to track your movements and may provide you with sexual stimulation whenever necessary. Of course, this will also enable you to access all the necessary facilities of this installation.
-28.08.2023 17:28:10_10²MainText²A collar... okay.
-30.08.2023 14:01:13_1²MainText²You're free to operate the terminal now. If you need further support or another manual check, feel free to call us anytime. I'll take my leave now.
+28.08.2023 16:36:03_2²MainText²Warum fühlt sich das so gut an?
+28.08.2023 16:36:03_3²MainText²Meine Hände sind extra mit Naniten entworfen, um den Kontakt mit der Haut sehr angenehm zu machen.
+28.08.2023 16:36:03_4²MainText²Es scheint, dass Sie ein Mensch sind, aber eine weitere Überprüfung ist erforderlich.
+28.08.2023 16:53:42_0²MainText²Du bist... kaputt... nimm einfach die Hände von... meinen Brüsten.
+28.08.2023 17:28:10_1²MainText²Ich muss Ihren Vaginaleingang überprüfen.
+28.08.2023 17:28:10_2²MainText²Bitte... nein... mhnn...
+28.08.2023 17:28:10_3²MainText²Es scheint, dass alles in Ordnung ist. Ihre Scheidenlippen sind gesund und feucht durch das Medikament.
+30.08.2023 14:01:13_0²MainText²Sie haben sogar einen Buttplug in sich. Eine sehr gute Wahl, das wird sie noch erregter machen.
+28.08.2023 17:28:10_4²MainText²Sehr gut.
+28.08.2023 17:28:10_5²MainText²Drehen Sie sich bitte um, ich werde das Joch entriegeln, damit Sie Ihre Arbeit an dieser Relaisstation fortsetzen können.
+28.08.2023 17:28:10_6²MainText²Ja, bitte...
+28.08.2023 17:28:10_7²MainText²Bitte besorgen Sie sich ein Collar für menschliche Arbeiter. Damit können Sie geortet und es können bei Bedarf Medikamente administriert werden.
+28.08.2023 17:28:10_8²MainText²Geortet... und Medikamente administriert?
+28.08.2023 17:28:10_9²MainText²Ja, die Haupt-KI wird in der Lage sein, Ihre Bewegungen zu verfolgen und Sie bei Bedarf sexuell zu stimulieren. Natürlich können Sie damit auch auf alle notwendigen Einrichtungen dieser Anlage zugreifen.
+28.08.2023 17:28:10_10²MainText²Ein Collar... Okay.
+30.08.2023 14:01:13_1²MainText²Sie können das Terminal jetzt bedienen. Wenn Sie weitere Unterstützung oder eine weitere manuelle Überprüfung benötigen, können Sie uns jederzeit rufen. Ich werde mich jetzt verabschieden.
 30.08.2023 14:01:13_2²MainText²...
-30.08.2023 14:01:13_3²MainText²What.. what was that?
-30.08.2023 14:01:13_4²MainText²She sprayed me with some kind of drug and now I am horny. This is so wrong... mhng...
-30.08.2023 14:01:13_5²MainText²I need to get it together now.
+30.08.2023 14:01:13_3²MainText²Was... Was war das?
+30.08.2023 14:01:13_4²MainText²Sie hat mich mit irgendeiner Droge besprüht und jetzt bin ich geil. Das ist so falsch... mhng...
+30.08.2023 14:01:13_5²MainText²Ich muss mich jetzt zusammenreißen.
 30.08.2023 14:01:13_6²MainText²...
-30.08.2023 14:01:13_7²MainText²I should redirect the passion now... yes...
-30.08.2023 14:01:13_8²MainText²Okay. Luca should have a little bit more power now.
-30.08.2023 14:01:13_9²MainText²Time to head back to Luca and tell her about what happened here!
+30.08.2023 14:01:13_7²MainText²Ich sollte die Leidenschaft jetzt umlenken... ja...
+30.08.2023 14:01:13_8²MainText²Ja, okay. Luca sollte jetzt etwas mehr Energie haben.
+30.08.2023 14:01:13_9²MainText²Es ist Zeit, zu Luca zurückzukehren und ihr zu erzählen, was hier passiert ist!
 30.08.2023 14:01:13_10²MainText²...
-30.08.2023 14:01:13_11²MainText²Luca, I was able to redirect the power to the development office, but before I could do it, I had to pass a human verification test!
-30.08.2023 16:18:48_0²MainText²A human verification test? Can you please elaborate?
-30.08.2023 16:18:48_1²MainText²Y..yes.. A gynoid was called and then she restrained me in a very weird yoke. Then she proceeded to drug me with some kind of gas that made me.. aroused.
-30.08.2023 16:18:48_2²MainText²This is bad. We need to check if this drug has some kind of lasting consequences.
-30.08.2023 16:18:48_3²MainText²I need to get a blood probe from you and see if I can synthesize the drug to analyze it.
-03.09.2023 16:18:16_0²MainText²And I will also need to free your hands at least!
-30.08.2023 16:18:48_4²MainText²Follow me, please!
-02.09.2023 16:11:04_0²MainText²Please lie down onto the bed.
-02.09.2023 16:11:04_1²MainText²Is this really necessary, I do not feel bad or ill. I actually feel more like...
-02.09.2023 16:11:04_2²MainText²Please elaborate.
-02.09.2023 16:11:04_3²MainText²No, I'd rather not.
-02.09.2023 16:11:04_4²MainText²Fascinating... Nevertheless, I must determine the substance they employed to ensure it's safe for your system.
-02.09.2023 16:11:04_5²MainText²I will only need a few drops of your essence. This should not be a problem.
-02.09.2023 16:11:04_6²MainText²Fine... do it.
+30.08.2023 14:01:13_11²MainText²Luca, es ist mir gelungen, den Strom zum Entwicklungsbüro umzuleiten, aber zuvor musste ich eine menschliche Verifizierung bestehen!
+30.08.2023 16:18:48_0²MainText²Ein menschlicher Verifizierungstest? Könnten Sie das bitte näher erläutern?
+30.08.2023 16:18:48_1²MainText²J..ja.. Eine Gynoidin wurde gerufen, und dann fesselte sie mich in ein sehr seltsames Joch. Dann hat sie mich mit einer Art Gas betäubt, das mich... erregt hat.
+30.08.2023 16:18:48_2²MainText²Das ist schlecht. Wir müssen prüfen, ob dieses Medikament irgendwelche dauerhaften Folgen hat.
+30.08.2023 16:18:48_3²MainText²Ich muss eine Blutprobe von Ihnen bekommen und sehen, ob ich das Medikament synthetisieren kann, um es zu analysieren.
+03.09.2023 16:18:16_0²MainText²Und ich werde zumindest Ihre Hände befreien müssen!
+30.08.2023 16:18:48_4²MainText²Folgen Sie mir, bitte!
+02.09.2023 16:11:04_0²MainText²Bitte legen Sie sich auf das Bett.
+02.09.2023 16:11:04_1²MainText²Ist das wirklich nötig, ich fühle mich nicht schlecht oder krank. Ich fühle mich eigentlich eher...
+02.09.2023 16:11:04_2²MainText²Bitte erläutern Sie das.
+02.09.2023 16:11:04_3²MainText²Nein, das möchte ich lieber nicht.
+02.09.2023 16:11:04_4²MainText²Faszinierend... Dennoch muss ich die Substanz bestimmen, die sie verwendet haben, um sicherzustellen, dass sie für Ihr System sicher ist.
+02.09.2023 16:11:04_5²MainText²Ich brauche nur ein paar Tropfen Ihres Blutes. Das sollte kein Problem sein.
+02.09.2023 16:11:04_6²MainText²Na schön... tun Sie es.
 02.09.2023 16:11:04_7²MainText²Mhnng...
-02.09.2023 16:11:04_8²MainText²Good... please be patient until I am done analyzing the blood.
-02.09.2023 16:11:04_9²MainText²Yes... yes...
-02.09.2023 16:11:04_10²MainText²What will you do if it is dangerous?
-02.09.2023 16:11:04_11²MainText²Breaking up the operation and call the government.
-02.09.2023 16:11:04_12²MainText²Yes, that may be a good idea... mhng...
-02.09.2023 16:11:04_13²MainText²Is there a specific reason for your moaning?
-02.09.2023 16:11:04_14²MainText²I just feel... like I am in the mood.
-02.09.2023 16:11:04_15²MainText²I presume this is an aftereffect of the drug. Please feel free to undress and touch yourself.
-02.09.2023 16:11:04_16²MainText²Wait.. really?
-02.09.2023 16:11:04_17²MainText²Yes. 
+02.09.2023 16:11:04_8²MainText²Gut... Bitte haben Sie Geduld, bis ich mit der Analyse des Blutes fertig bin.
+02.09.2023 16:11:04_9²MainText²Ja... ja...
+02.09.2023 16:11:04_10²MainText²Was werden Sie tun, wenn es gefährlich ist?
+02.09.2023 16:11:04_11²MainText²Den Einsatz abbrechen, und die Regierung einschalten.
+02.09.2023 16:11:04_12²MainText²Ja, das ist keine schlechte Idee... mhng...
+02.09.2023 16:11:04_13²MainText²Gibt es einen bestimmten Grund für Ihr Gemöhne?
+02.09.2023 16:11:04_14²MainText²Ich fühle mich einfach... als wäre ich in der Stimmung.
+02.09.2023 16:11:04_15²MainText²Ich nehme an, das ist eine Nachwirkung des Medikaments. Sie können sich gerne ausziehen und sich selbst berühren.
+02.09.2023 16:11:04_16²MainText²Moment... wirklich?
+02.09.2023 16:11:04_17²MainText²Ja.
 02.09.2023 16:11:04_18²MainText²O.. okay...
 02.09.2023 16:11:04_19²MainText²Mhng...
 03.09.2023 11:33:13_0²MainText²...nhng...
-03.09.2023 11:33:13_1²MainText²If you wish to, I am willing to help you with the need for sexual release. The test is now running automatically and will be done in a few minutes.
-03.09.2023 11:33:13_2²MainText²I don't...
+03.09.2023 11:33:13_1²MainText²Wenn Sie es wünschen, bin ich bereit, Ihnen bei Ihrem Bedürfnis nach sexueller Befreiung zu helfen. Der Test läuft jetzt automatisch und wird in wenigen Minuten abgeschlossen sein.
+03.09.2023 11:33:13_2²MainText²Ich weiß nicht...
 03.09.2023 12:09:25_0²MainText²...
-03.09.2023 11:33:13_3²MainText²As you wish!
+03.09.2023 11:33:13_3²MainText²Wie Sie wünschen!
 03.09.2023 11:33:13_4²MainText²Mhng.. ahnn...
-03.09.2023 11:33:13_5²MainText²Ah, yes.
+03.09.2023 11:33:13_5²MainText²Ah, ja.
 03.09.2023 11:33:13_6²MainText²Mhng... aahnn...
 03.09.2023 11:33:13_7²MainText²Mhng.. ahnn...
-03.09.2023 11:33:13_8²MainText²Yes.. ahh....
-03.09.2023 11:33:13_9²MainText²I am... I... I can...
+03.09.2023 11:33:13_8²MainText²Ja.. ahh....
+03.09.2023 11:33:13_9²MainText²Ich bin... I... Ich kann...
 03.09.2023 11:33:13_10²MainText²AAHHHHHHH....
-03.09.2023 11:33:13_11²MainText²Uf... yes...
+03.09.2023 11:33:13_11²MainText²Uf... ja...
 03.09.2023 12:43:25_0²MainText²...
-03.09.2023 11:33:13_12²MainText²Yes, please help me with this.
-03.09.2023 12:43:25_1²MainText²As you wish.
+03.09.2023 11:33:13_12²MainText²Ja, bitte helfen Sie mir dabei.
+03.09.2023 12:43:25_1²MainText²Wie Sie wünschen.
 03.09.2023 12:43:25_2²MainText²I will utilize my fingers to help with this task. My naked body will give you further visual stimulation.
 03.09.2023 12:43:25_3²MainText²You are already quite wet. I assume this won't take long.
 03.09.2023 12:43:25_4²MainText²Mhngg... ahnn...
